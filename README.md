@@ -34,7 +34,7 @@ Creates:
 Dependencies:
 R
 - pROC
-- Install with: install.packages("pROC")
+-> Install with: install.packages("pROC")
 
 Python
 - pandas
@@ -47,7 +47,7 @@ How to run:
 1. Download processed.cleveland.data.
 2. Put the dataset and both scripts in the same project folder.
 3. Update the file paths in the R and Python scripts for your computer.
-4. Run the R script first:
+4. Run the R script first: (make sure to change the loading saving section - on line 12 and from line 219, to match file locations on own computer)
   Rscript FINAL_ANALYSIS.r
 5. Then run the Python script:
   python3 FINALGRAPHS.py
