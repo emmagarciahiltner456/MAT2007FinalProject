@@ -9,6 +9,7 @@ Research questions
 Dataset
 -> Source: UCI Machine Learning Repository
 https://archive.ics.uci.edu/dataset/45/heart+disease
+
 -> File used: processed.cleveland.data
 - Included: 303 patients and 14 variables
 *Missing values shown as ? are read as NA in R
